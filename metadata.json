@@ -1,0 +1,6 @@
+{
+  "name": "Catharsis: Ragdoll Stress Reliever",
+  "description": "Comedic physics ragdoll sandbox where you can put any annoying face on a ragdoll and unleash hilarious weapons and stress-relief tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
